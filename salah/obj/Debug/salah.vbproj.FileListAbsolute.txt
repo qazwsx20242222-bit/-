@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\salah\salah\bin\Debug\salah.exe.config
+C:\Users\HP\Desktop\salah\salah\bin\Debug\salah.exe
+C:\Users\HP\Desktop\salah\salah\bin\Debug\salah.pdb
+C:\Users\HP\Desktop\salah\salah\bin\Debug\salah.xml
+C:\Users\HP\Desktop\salah\salah\obj\Debug\salah.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\salah\salah\obj\Debug\salah.Form1.resources
+C:\Users\HP\Desktop\salah\salah\obj\Debug\salah.Resources.resources
+C:\Users\HP\Desktop\salah\salah\obj\Debug\salah.vbproj.GenerateResource.Cache
+C:\Users\HP\Desktop\salah\salah\obj\Debug\salah.exe
+C:\Users\HP\Desktop\salah\salah\obj\Debug\salah.xml
+C:\Users\HP\Desktop\salah\salah\obj\Debug\salah.pdb
